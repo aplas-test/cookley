@@ -9,14 +9,13 @@
       "description": "Future-proofed well-modulated internet solution",
       "categoryId": "core",
       "applicationSize": "large",
-      "status": "standard",
       "licensing_cost": "218",
       "vendor_phone": "+86 864 902 9597",
       "status_color": "#00FF00",
       "department": "Engineering",
       "hostedtype": "OnPremise",
       "deployment_date": "31/7/15",
-      "investment_number": "363",
+      "investment_number": 363,
       "type": "OffShelf",
       "sme_email": "Yettie.Scorer@memento.net.au",
       "investment_24m": "689",
@@ -25,11 +24,11 @@
       "support_cost": "108",
       "vendor_contact_name": "Berk Andreia",
       "end_of_life": "27/3/19",
-      "months_to_renew_support": "5",
+      "months_to_renew_support": 5,
       "end_of_maintenance": "27/3/17",
       "integrations": [
         {
-          "assetId": "int-436",
+          "id": "int-436",
           "name": "INT-436",
           "shortName": null,
           "version": "1.14",
@@ -37,7 +36,6 @@
           "payload": "Customer",
           "targetApplicationId": "best_cloud",
           "categoryId": "mft",
-          "status": "standard",
           "sme_name": "Lee Brelsford",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -50,7 +48,7 @@
           "golive_date": "9/9/08"
         },
         {
-          "assetId": "int-429",
+          "id": "int-429",
           "name": "INT-429",
           "shortName": null,
           "version": "1.9.8",
@@ -58,7 +56,6 @@
           "payload": "Inventory - SOH",
           "targetApplicationId": "seamless_engine",
           "categoryId": "fuse",
-          "status": "standard",
           "sme_name": "Gerri Gwyllt",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -71,7 +68,7 @@
           "golive_date": "17/3/14"
         },
         {
-          "assetId": "int-110",
+          "id": "int-110",
           "name": "INT-110",
           "shortName": null,
           "version": "0.7.3",
@@ -79,7 +76,6 @@
           "payload": "Backdated Sales, rebates, returns",
           "targetApplicationId": "employer_pop",
           "categoryId": "fuse",
-          "status": "standard",
           "sme_name": "Gabriel Van Hault",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -92,7 +88,7 @@
           "golive_date": "6/6/16"
         },
         {
-          "assetId": "int-035",
+          "id": "int-035",
           "name": "INT-035",
           "shortName": null,
           "version": "0.8.6",
@@ -100,7 +96,6 @@
           "payload": "Weekly Sales",
           "targetApplicationId": "biodex",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Gunner Cust",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -113,7 +108,7 @@
           "golive_date": "28/7/14"
         },
         {
-          "assetId": "int-387",
+          "id": "int-387",
           "name": "INT-387",
           "shortName": null,
           "version": "0.99",
@@ -121,7 +116,6 @@
           "payload": "Inventory Right-off",
           "targetApplicationId": "kanlam",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Alfy Greader",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -134,7 +128,7 @@
           "golive_date": "26/5/04"
         },
         {
-          "assetId": "int-402",
+          "id": "int-402",
           "name": "INT-402",
           "shortName": null,
           "version": "0.23",
@@ -142,7 +136,6 @@
           "payload": "ASN Receipt Transactional Data",
           "targetApplicationId": "hyperlocal",
           "categoryId": "etl",
-          "status": "standard",
           "sme_name": "Gunner Cust",
           "status_color": "#00FF00",
           "department": "Datawarehouse",
@@ -155,7 +148,7 @@
           "golive_date": "22/6/11"
         },
         {
-          "assetId": "int-239",
+          "id": "int-239",
           "name": "INT-239",
           "shortName": null,
           "version": "7.73",
@@ -163,7 +156,6 @@
           "payload": "Seasons",
           "targetApplicationId": "critical_agile",
           "categoryId": "etl",
-          "status": "standard",
           "sme_name": "Muhammad Cammack",
           "status_color": "#00FF00",
           "department": "Datawarehouse",
@@ -176,7 +168,7 @@
           "golive_date": "3/11/13"
         },
         {
-          "assetId": "int-388",
+          "id": "int-388",
           "name": "INT-388",
           "shortName": null,
           "version": "2.0.0",
@@ -184,7 +176,6 @@
           "payload": "Backdated on hand Raincheck Extract",
           "targetApplicationId": "sonsing",
           "categoryId": "fuse",
-          "status": "standard",
           "sme_name": "Gabriel Van Hault",
           "status_color": "#00FF00",
           "department": "Integration",
